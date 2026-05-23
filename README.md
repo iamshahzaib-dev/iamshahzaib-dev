@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shahzaib Abid 👋
 
-<!--
-**iamshahzaib-dev/iamshahzaib-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer from Pakistan
 
-Here are some ideas to get you started:
+## 🛠️ Currently Learning
+- HTML & CSS
+- JavaScript
+- React
+- Node.js & Express
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning From
+- The Odin Project
+- freeCodeCamp
+
+## 🎯 Goals
+- Build real full stack web applications
+- Earn freeCodeCamp certifications
+- Land my first developer job
+
+## 📊 GitHub Stats
+![Shahzaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshahzaib-dev&show_icons=true&theme=dark)
+
+## 📫 Contact Me
+- Email: zaibabidabid786@gmail.com
