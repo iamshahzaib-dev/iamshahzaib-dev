@@ -19,7 +19,7 @@
 - Land my first developer job
 
 ## 📊 GitHub Stats
-![Shahzaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshahzaib-dev&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshahzaib-dev&show_icons=true&theme=radical&hide_border=true)
 
 ## 📫 Contact Me
 - Email: zaibabidabid786@gmail.com
